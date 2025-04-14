@@ -8,14 +8,14 @@
 LIST 
 FROM "Personal Projects" AND #p_project 
 WHERE  Active-Project = true
-SORT file.mtime DESC
+
 ```
 ## Inactive Projects
 ``` dataview
 LIST 
 FROM "Personal Projects" and #p_project 
 WHERE  Active-Project = false
-SORT file.mtime DESC
+
 ```
 ## Passing Interest/Not Started Projects
 - [[Magnetic charger converting\|Magnetic charger converting]] 
