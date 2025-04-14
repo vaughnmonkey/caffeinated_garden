@@ -15,7 +15,6 @@ actions:
     fileName: "New Knowledge-RENAME"
 ```
 - \-: 
-    - [[Knowledge/Daily Activity\|Daily Activity]]
     - [[Knowledge/10 Simple rules for Note taking\|10 Simple rules for Note taking]]
 
 - Fun: 
@@ -56,7 +55,7 @@ actions:
 > 	- [[Dad's Recipes\|Dad's Recipes]]
 > 	- [[Genea's Recipes\|Genea's Recipes]]
 > - Fitness
-> 	- [[Knowledge/Daily Activity\|Daily Activity]]
+> 	- [[Daily Activity\|Daily Activity]]
 > - Engineering
 > 	- [[Knowledge/Starlite fireproof material\|Starlite fireproof material]]
 > 	- [[Knowledge/Smart Home (IOT)\|Smart Home (IOT)]] 
