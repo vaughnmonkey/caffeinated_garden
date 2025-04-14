@@ -10,8 +10,6 @@
 
 { .block-language-dataview}
 ## Inactive Projects
-- [[Personal-Projects/Ultimate Controller\|Ultimate Controller]]
-- [[Personal-Projects/Thor_Arm/My Thor\|My Thor]]
 - [[Personal-Projects/Home Server\|Home Server]]
 - [[Personal-Projects/Ground-Air Drone\|Ground-Air Drone]]
 - [[Personal-Projects/Filament dry-box\|Filament dry-box]]
@@ -19,6 +17,8 @@
 - [[Personal-Projects/DnD game board table\|DnD game board table]]
 - [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]
 - [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]
+- [[Personal-Projects/Ultimate Controller\|Ultimate Controller]]
+- [[Personal-Projects/Thor_Arm/My Thor\|My Thor]]
 
 { .block-language-dataview}
 ## Passing Interest/Not Started Projects
