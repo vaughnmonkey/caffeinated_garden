@@ -1,5 +1,5 @@
 ---
-{"tags":["p_project","diy","desktopComputer"],"Parent Link":"[[Personal Projects]]","Active-Project":true,"dg-publish":true,"permalink":"/personal-projects/tablet-desktop/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/personal-projects/tablet-desktop/","tags":["p_project","diy","desktopComputer"]}
 ---
 
 # Applicable Knowledge

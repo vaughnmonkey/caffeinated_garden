@@ -1,5 +1,5 @@
 ---
-{"tags":["p_project","ethercat","industrial"],"Parent Link":"[[Personal Projects]]","Active-Project":true,"dg-publish":true,"permalink":"/personal-projects/ether-cat-poe/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/personal-projects/ether-cat-poe/","tags":["p_project","ethercat","industrial"]}
 ---
 
 # Applicable Knowledge

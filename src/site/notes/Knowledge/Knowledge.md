@@ -1,5 +1,5 @@
 ---
-{"tags":["directory"],"Parent Link":"[[Home]]","dg-publish":true,"permalink":"/knowledge/knowledge/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/knowledge/","tags":["directory"]}
 ---
 
 
