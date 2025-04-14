@@ -3,17 +3,6 @@
 ---
 
 
-```meta-bind-button
-style: primary
-label: Create Note
-id: CreateNote
-hidden: false
-actions:
-  - type: templaterCreateNote
-    templateFile: "Templates/Knowledge.md"
-    folderPath: Knowledge
-    fileName: "New Knowledge-RENAME"
-```
 - \-: 
     - [[Knowledge/10 Simple rules for Note taking\|10 Simple rules for Note taking]]
 
