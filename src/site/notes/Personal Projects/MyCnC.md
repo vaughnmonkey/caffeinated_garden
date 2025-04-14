@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/my-cn-c/","tags":["p_project"]}
+{"tags":["p_project"],"Parent Link":"[[Personal Projects]]","Active-Project":true,"dg-publish":true,"permalink":"/personal-projects/my-cn-c/","dgPassFrontmatter":true}
 ---
 
 ### Resources 
