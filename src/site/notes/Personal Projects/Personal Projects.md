@@ -6,7 +6,7 @@
 ## Active Projects
 ``` dataview
 LIST 
-FROM "Personal Projects" AND #p_project 
+FROM ("Personal Projects" OR "personal-projects") AND #p_project 
 WHERE  Active-Project = true
 SORT file.mtime DESC
 ```
