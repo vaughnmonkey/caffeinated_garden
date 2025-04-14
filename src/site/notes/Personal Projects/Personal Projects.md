@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/personal-projects/","tags":["directory"]}
+{"dg-publish":true,"permalink":"/Personal Projects/Personal Projects/","tags":["directory"]}
 ---
 
 
 ## Active Projects
 ``` dataview
 LIST 
-FROM ("Personal Projects" OR "personal-projects") AND #p_project 
+FROM "Personal Projects" AND #p_project 
 WHERE  Active-Project = true
 SORT file.mtime DESC
 ```

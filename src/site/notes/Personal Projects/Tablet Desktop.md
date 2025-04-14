@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/tablet-desktop/","tags":["p_project","diy","desktopComputer"]}
+{"dg-publish":true,"permalink":"/Personal Projects/Tablet Desktop/","tags":["p_project","diy","desktopComputer"]}
 ---
 
 # Applicable Knowledge

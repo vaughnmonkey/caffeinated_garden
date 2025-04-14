@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caffeinated-garden/caffeinated-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Caffeinated Garden/Caffeinated Garden/","tags":["gardenEntry"]}
 ---
 
 # Welcome to my Chaotic Wonderland of Caffeinated Fixations
