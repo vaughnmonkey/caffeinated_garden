@@ -3,11 +3,22 @@
 ---
 
 
+- \-: 
+    - [[Knowledge/Note Taking and Knowledge Articles\|Note Taking and Knowledge Articles]]
+
+- Fun: 
+    - [[Knowledge/Cardomancy\|Cardomancy]]
+
 - Hardware: 
+    - [[Knowledge/Flipper_Zero\|Flipper_Zero]]
     - [[Knowledge/Circuit Design\|Circuit Design]]
 
 - Industrial: 
     - [[Knowledge/Industrial/Ethercat\|Ethercat]]
+    - [[Knowledge/Industrial/Cascade\|Cascade]]
+
+- Language: 
+    - [[Knowledge/Italian Language\|Italian Language]]
 
 - Material: 
     - [[Knowledge/Starlite fireproof material\|Starlite fireproof material]]
@@ -19,6 +30,7 @@
     - [[Knowledge/Programming/SQL Databases\|SQL Databases]]
     - [[Knowledge/Programming/ROS\|ROS]]
     - [[Knowledge/Programming/LinuxCnC\|LinuxCnC]]
+    - [[Knowledge/Home Assistants\|Home Assistants]]
     - [[Knowledge/FreeCAD\|FreeCAD]]
 
 
