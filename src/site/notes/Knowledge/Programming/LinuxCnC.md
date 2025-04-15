@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Knowledge/Programming/LinuxCnC/","tags":["programming/linux","control-systems/CnC","opensource"]}
+{"dg-publish":true,"permalink":"/Knowledge/Programming/LinuxCnC/","tags":["programming/linux","control-systems/CnC","opensource","programming"]}
 ---
 
 

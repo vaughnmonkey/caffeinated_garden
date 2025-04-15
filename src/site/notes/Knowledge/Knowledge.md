@@ -3,22 +3,11 @@
 ---
 
 
-- \-: 
-    - [[Knowledge/10 Simple rules for Note taking\|10 Simple rules for Note taking]]
-
-- Fun: 
-    - [[Knowledge/Cardomancy\|Cardomancy]]
-
 - Hardware: 
-    - [[Knowledge/Flipper_Zero\|Flipper_Zero]]
     - [[Knowledge/Circuit Design\|Circuit Design]]
 
 - Industrial: 
     - [[Knowledge/Industrial/Ethercat\|Ethercat]]
-    - [[Knowledge/Industrial/Cascade\|Cascade]]
-
-- Language: 
-    - [[Knowledge/Italian Language\|Italian Language]]
 
 - Material: 
     - [[Knowledge/Starlite fireproof material\|Starlite fireproof material]]
@@ -26,20 +15,18 @@
     - [[Knowledge/Electroplating\|Electroplating]]
 
 - Software: 
-    - [[Knowledge/FreeCAD\|FreeCAD]]
+    - [[Knowledge/Smart Home (IOT)\|Smart Home (IOT)]]
     - [[Knowledge/Programming/SQL Databases\|SQL Databases]]
     - [[Knowledge/Programming/ROS\|ROS]]
     - [[Knowledge/Programming/LinuxCnC\|LinuxCnC]]
-    - [[Knowledge/Smart Home (IOT)\|Smart Home (IOT)]]
-    - [[Knowledge/LinuxCnC\|LinuxCnC]]
-    - [[Knowledge/Home Assistants\|Home Assistants]]
+    - [[Knowledge/FreeCAD\|FreeCAD]]
 
 
 { .block-language-dataview}
 > [!hide]- Knowledge
 > - [[Knowledge/Italian Language\|Italian Language]]
 > - [[Knowledge/Cardomancy\|Cardomancy]]
-> - [[Knowledge/10 Simple rules for Note taking\|10 Simple rules for Note taking]]
+> - [[Knowledge/Note Taking and Knowledge Articles\|Note Taking and Knowledge Articles]]
 > - Food
 > 	- [[Dad's Recipes\|Dad's Recipes]]
 > 	- [[Genea's Recipes\|Genea's Recipes]]
@@ -57,7 +44,7 @@
 > 	- [[Knowledge/Programming/Javascript\|Javascript]]
 > 	- [[Knowledge/Programming/ROS\|ROS]] 
 > 	- [[Knowledge/Industrial/Ethercat\|Ethercat]]  
-> 	- [[Knowledge/LinuxCnC\|LinuxCnC]] 
+> 	- [[Knowledge/Programming/LinuxCnC\|LinuxCnC]] 
 > - Hacking 
 > 	- [[Firmware Hacking\|Firmware Hacking]]
 > 	- [[Knowledge/Flipper_Zero\|Flipper_Zero]] 
@@ -70,9 +57,9 @@
 | [[School/B-System Dynamics\|B-System Dynamics]]                                     | System Dynamics                          | Katsuhiko Ogata | Modeling & Feedback Control           |
 | [[School/B-MTRE Handbook\|B-MTRE Handbook]]                                         | The Mechatronics Handbook                | \-              | Mechatronics Engineering Fundamentals |
 | [[School/B-Modern Control Engr\|B-Modern Control Engr]]                             | Modern Controls Engineering              | Katsuhiko Ogata | Modeling and Feedback Control         |
-| [[School/B-Fluid Power with applications\|B-Fluid Power with applications]]         | Fluid Power with Applications            | \-              | Fluid Power                           |
-| [[School/B-Control Systems Engr\|B-Control Systems Engr]]                           | Control Systems Engineering              | Norman S. Nise  | Modeling & Feedback Control           |
 | [[School/B-Intro to Autonomous Mobile Robots\|B-Intro to Autonomous Mobile Robots]] | Introduction to Autonomous Mobile Robots | Roland Siegwart | Mechatronics Engineering Fundamentals |
+| [[School/B-Control Systems Engr\|B-Control Systems Engr]]                           | Control Systems Engineering              | Norman S. Nise  | Modeling & Feedback Control           |
+| [[School/B-Fluid Power with applications\|B-Fluid Power with applications]]         | Fluid Power with Applications            | \-              | Fluid Power                           |
 
 { .block-language-dataview}
 

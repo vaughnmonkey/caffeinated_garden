@@ -11,7 +11,7 @@
 - 
 
 # Applicable Knowledge
- - [[Knowledge/LinuxCnC\|LinuxCnC]]
+ - [[Knowledge/Programming/LinuxCnC\|LinuxCnC]]
 	 - [Tutorial on using EitherCat in LinuxCnC ](https://forum.linuxcnc.org/ethercat/42048-notes-from-installation-of-ethercat-on-raspberry-pi-4#203806) 
 		 - [video](https://www.youtube.com/watch?v=NQ-HnrusGJo) 
  - [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]
@@ -23,7 +23,7 @@
  - [[Knowledge/Programming/ROS\|ROS]] 
 
 # Project Tasks
-- [ ] research and flesh out the [[Knowledge/LinuxCnC\|LinuxCnC]] knowledge file
+- [ ] research and flesh out the [[Knowledge/Programming/LinuxCnC\|LinuxCnC]] knowledge file
 - [ ] see if using diy bldc servos would be better for ethercat controlled cnc or if steppers are fine
 - [ ] Look into Ros for Working with:
     - [ ] LinuxCnC
@@ -34,7 +34,7 @@
 { .block-language-dataview}
 
 > [!hide]- old tasks
-> - [ ] research and flesh out the [[Knowledge/LinuxCnC\|LinuxCnC]] knowledge file
+> - [ ] research and flesh out the [[Knowledge/Programming/LinuxCnC\|LinuxCnC]] knowledge file
 > - [ ] see if using diy bldc servos would be better for ethercat controlled cnc or if steppers are fine
 > - [x] research the delta style cnc design and see if a diy version is possible. if not then wait for the files of the concrete filled one from [Chris Borge Printables](https://www.printables.com/@ChrisBorge) 
 > 	-  as of  2025/02/12 I couldn't find any reference to the horizontal delta style mill I saw and I worry that rigidity in that design would be extremely difficult so I'm gonna go with the Chris Borge design as my inspiration
