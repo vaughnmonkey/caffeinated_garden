@@ -4,25 +4,25 @@
 
 
 ## Active Projects
-| File                                                | Project Started | Last Touched   |
-| --------------------------------------------------- | --------------- | -------------- |
-| [[Personal-Projects/TabDesk\|TabDesk]]           | \-              | April 14, 2025 |
-| [[Personal-Projects/MyCnC\|MyCnC]]               | \-              | April 14, 2025 |
-| [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]] | \-              | April 14, 2025 |
+| File                                                | Last Touched   |
+| --------------------------------------------------- | -------------- |
+| [[Personal-Projects/TabDesk\|TabDesk]]           | April 14, 2025 |
+| [[Personal-Projects/MyCnC\|MyCnC]]               | April 14, 2025 |
+| [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]] | April 14, 2025 |
 
 { .block-language-dataview}
 ## Inactive Projects
-| File                                                                | Project Started   | Last Touched   |
-| ------------------------------------------------------------------- | ----------------- | -------------- |
-| [[Personal-Projects/Home Server\|Home Server]]                   | February 26, 2025 | April 15, 2025 |
-| [[Personal-Projects/Ground-Air Drone\|Ground-Air Drone]]         | February 26, 2025 | April 14, 2025 |
-| [[Personal-Projects/Filament dry-box\|Filament dry-box]]         | February 26, 2025 | April 14, 2025 |
-| [[Personal-Projects/EtherSweep+Power\|EtherSweep+Power]]         | March 11, 2025    | April 14, 2025 |
-| [[Personal-Projects/DnD game board table\|DnD game board table]] | February 26, 2025 | April 14, 2025 |
-| [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]             | February 26, 2025 | April 14, 2025 |
-| [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]                | February 26, 2025 | April 14, 2025 |
-| [[Personal-Projects/Ultimate Controller\|Ultimate Controller]]   | February 26, 2025 | April 14, 2025 |
-| [[Personal-Projects/Thor_Arm/My Thor\|My Thor]]                  | February 26, 2025 | April 14, 2025 |
+| File                                                                | Last Touched   |
+| ------------------------------------------------------------------- | -------------- |
+| [[Personal-Projects/Home Server\|Home Server]]                   | April 15, 2025 |
+| [[Personal-Projects/Ground-Air Drone\|Ground-Air Drone]]         | April 14, 2025 |
+| [[Personal-Projects/Filament dry-box\|Filament dry-box]]         | April 14, 2025 |
+| [[Personal-Projects/EtherSweep+Power\|EtherSweep+Power]]         | April 14, 2025 |
+| [[Personal-Projects/DnD game board table\|DnD game board table]] | April 14, 2025 |
+| [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]             | April 14, 2025 |
+| [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]                | April 14, 2025 |
+| [[Personal-Projects/Ultimate Controller\|Ultimate Controller]]   | April 14, 2025 |
+| [[Personal-Projects/Thor_Arm/My Thor\|My Thor]]                  | April 14, 2025 |
 
 { .block-language-dataview}
 ## Passing Interest/Not Started Projects
