@@ -4,11 +4,12 @@
 
 
 ## Active Projects
-| File                                                | Last Touched   |
-| --------------------------------------------------- | -------------- |
-| [[Personal-Projects/TabDesk\|TabDesk]]           | April 14, 2025 |
-| [[Personal-Projects/MyCnC\|MyCnC]]               | April 14, 2025 |
-| [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]] | April 14, 2025 |
+| File                                                                        | Last Touched   |
+| --------------------------------------------------------------------------- | -------------- |
+| [[Personal-Projects/3D-Printed MicroProjects\|3D-Printed MicroProjects]] | April 16, 2025 |
+| [[Personal-Projects/TabDesk\|TabDesk]]                                   | April 14, 2025 |
+| [[Personal-Projects/MyCnC\|MyCnC]]                                       | April 14, 2025 |
+| [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]                         | April 14, 2025 |
 
 { .block-language-dataview}
 ## Inactive Projects
