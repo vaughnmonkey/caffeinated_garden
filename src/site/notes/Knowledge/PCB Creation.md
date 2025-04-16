@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/Knowledge/PCB Creation/","tags":["diy/material","electrical"]}
 ---
 
-### My Understanding
- 
 
+ 
 
 # PCB Creation Methods
 - [PCB Etching](https://news.sparkfun.com/2116) 

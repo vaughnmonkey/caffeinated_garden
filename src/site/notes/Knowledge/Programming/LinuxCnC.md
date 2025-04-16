@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Knowledge/Programming/LinuxCnC/","tags":["programming/linux","control-systems/CnC","opensource","programming"]}
 ---
 
+ 
 
 My current main focus is to use this to control servo/stepper motors via Ethercat 
 ### Resources 
