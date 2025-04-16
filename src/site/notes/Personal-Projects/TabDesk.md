@@ -31,7 +31,7 @@
 
 { .block-language-dataview}
 
-##### Old Tasks
+##### Old Tasks 
 > [!hide]- 
 > - [ ] do the project
 > - [x] Compile a parts list ✅ 2025-04-04
@@ -172,3 +172,4 @@ My current thoughts on the structure and components are a variation of the linke
 - this would be more powerful than the framework 13 options at the same price and with extra features of dedicated graphics and pen supported touch screen 
 	- would be slightly less powerful than the framework 16 but have size and upgradability advantages over it.
 
+## 2025-04-16
