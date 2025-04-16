@@ -3,7 +3,4 @@
 ---
 
 ### My Understanding
-```meta-bind
-INPUT[progressBar:Understanding]
-```
-
+" "
