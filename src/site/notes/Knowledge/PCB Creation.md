@@ -3,7 +3,8 @@
 ---
 
 ### My Understanding
-"
+ 
+
 
 # PCB Creation Methods
 - [PCB Etching](https://news.sparkfun.com/2116) 

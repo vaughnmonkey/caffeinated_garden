@@ -3,7 +3,8 @@
 ---
 
 #### My Understanding
-"
+ 
+
 ### Found Resources 
 ##### Software 
 - [Open EtherCAT Society](https://openethercatsociety.github.io/) 
