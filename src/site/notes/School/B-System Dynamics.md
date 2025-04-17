@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/school/b-system-dynamics/","title":"System Dynamics","tags":["book/textbook/MTRE"]}
+{"dg-publish":true,"permalink":"/School/B-System Dynamics/","title":"System Dynamics","tags":["book/textbook/MTRE"]}
 ---
 
 

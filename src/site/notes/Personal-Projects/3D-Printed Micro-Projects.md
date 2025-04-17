@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/3-d-printed-micro-projects/","tags":["3d_printing","additive_manufacturing","micro-project"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/3D-Printed Micro-Projects/","tags":["3d_printing","additive_manufacturing","micro-project"]}
 ---
 
 > [!important]

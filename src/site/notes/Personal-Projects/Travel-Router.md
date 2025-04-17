@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/travel-router/","tags":["p_project"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/Travel-Router/","tags":["p_project"]}
 ---
 
 # Applicable Knowledge

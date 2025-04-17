@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/school/b-control-systems-engr/","title":"Control Systems Engineering","tags":["book/textbook/MTRE"]}
+{"dg-publish":true,"permalink":"/School/B-Control Systems Engr/","title":"Control Systems Engineering","tags":["book/textbook/MTRE"]}
 ---
 
 

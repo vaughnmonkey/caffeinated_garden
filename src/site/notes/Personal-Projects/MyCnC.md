@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/my-cn-c/","tags":["p_project"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/MyCnC/","tags":["p_project"]}
 ---
 
 ### Resources 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/filament-dry-box/","tags":["3d_printing","additive_manufacturing","p_project"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/Filament dry-box/","tags":["3d_printing","additive_manufacturing","p_project"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/ground-air-drone/","tags":["p_project","diy","engineering"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/Ground-Air Drone/","tags":["p_project","diy","engineering"]}
 ---
 
 # Applicable Knowledge

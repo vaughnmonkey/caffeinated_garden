@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/my-norway-spruce/"}
+{"dg-publish":true,"permalink":"/Personal-Projects/My Norway Spruce/"}
 ---
 
 [[Personal-Projects/Norway Spruce\|Norway Spruce]]

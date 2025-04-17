@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/royal-poinciana/"}
+{"dg-publish":true,"permalink":"/Personal-Projects/Royal Poinciana/"}
 ---
 
 [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]

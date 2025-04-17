@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/ether-sweep-power/","tags":["p_project","industrial/software"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/EtherSweep+Power/","tags":["p_project","industrial/software"]}
 ---
 
 # Applicable Knowledge

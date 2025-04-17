@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/thor-arm/my-thor/","tags":["robotics","3d_printing","p_project"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/Thor_Arm/My Thor/","tags":["robotics","3d_printing","p_project"]}
 ---
 
 

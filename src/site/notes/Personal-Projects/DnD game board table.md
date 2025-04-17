@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/dn-d-game-board-table/","tags":["p_project","DnD"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/DnD game board table/","tags":["p_project","DnD"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/tab-desk/","tags":["p_project","diy","desktopComputer"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/TabDesk/","tags":["p_project","diy","desktopComputer"]}
 ---
 
 # Applicable Knowledge

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/programming-micro-projects/","tags":["programming","micro-project"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/Programming Micro-Projects/","tags":["programming","micro-project"]}
 ---
 
 

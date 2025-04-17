@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/pcb-creation/","tags":["diy/material","electrical"]}
+{"dg-publish":true,"permalink":"/Knowledge/PCB Creation/","tags":["diy/material","electrical"]}
 ---
 
 
-```meta-bind
-INPUT[progressBar(title(My Understanding)):Understanding]
-```
+ 
 
 # PCB Creation Methods
 - [PCB Etching](https://news.sparkfun.com/2116) 
