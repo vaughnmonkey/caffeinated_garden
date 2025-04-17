@@ -57,6 +57,6 @@ This method seems most similar to how I've been doing my Vault so far and the on
 > 	- [The Ultimate Guide to Writing Technical Blog Posts](https://dev.to/blackgirlbytes/the-ultimate-guide-to-writing-technical-blog-posts-5464) 
 > 	- [Tips on how to write Your First Successful Technical Blog posts](https://medium.com/quark-works/tips-on-how-to-write-your-first-successful-technical-blog-4cb65e5b4ce4) 
 
-
+I don't know what I'm doing but hopefully I can and will learn.
 
 
