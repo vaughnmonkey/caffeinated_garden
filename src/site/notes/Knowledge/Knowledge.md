@@ -36,6 +36,7 @@
 
 
 { .block-language-dataview}
+
 > [!hide]- Knowledge
 > - [[Knowledge/Italian Language\|Italian Language]]
 > - [[Knowledge/Cardomancy\|Cardomancy]]
@@ -62,6 +63,7 @@
 > 	- [[Firmware Hacking\|Firmware Hacking]]
 > 	- [[Knowledge/Flipper_Zero\|Flipper_Zero]] 
 > 	- [[School/Cyber Security\|Cyber Security]]
+
 # Books 
 
 ## Textbooks
