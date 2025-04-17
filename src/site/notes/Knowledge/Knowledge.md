@@ -24,7 +24,7 @@
     - [[Knowledge/Electroplating\|Electroplating]]
 
 - Soft-Skills: 
-    - [[Knowledge/Note Taking and Knowledge Articles\|Note Taking and Knowledge Articles]]
+    - [[Knowledge/Note Taking and Knowledge Management\|Note Taking and Knowledge Management]]
 
 - Software: 
     - [[Knowledge/Smart Home (IOT)\|Smart Home (IOT)]]
@@ -39,7 +39,7 @@
 > [!hide]- Knowledge
 > - [[Knowledge/Italian Language\|Italian Language]]
 > - [[Knowledge/Cardomancy\|Cardomancy]]
-> - [[Knowledge/Note Taking and Knowledge Articles\|Note Taking and Knowledge Articles]]
+> - [[Knowledge/Note Taking and Knowledge Management\|Note Taking and Knowledge Management]]
 > - Food
 > 	- [[Dad's Recipes\|Dad's Recipes]]
 > 	- [[Genea's Recipes\|Genea's Recipes]]
