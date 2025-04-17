@@ -172,4 +172,9 @@ My current thoughts on the structure and components are a variation of the linke
 - this would be more powerful than the framework 13 options at the same price and with extra features of dedicated graphics and pen supported touch screen 
 	- would be slightly less powerful than the framework 16 but have size and upgradability advantages over it.
 
-## 2025-04-16
+## 2025-04-17
+- this [console pc case](https://zaber.com.pl/sentry/) site might be a useful resource
+
+- I'm worried that this build is going to be impossible to do in a way that actually satisfies my wants. But every other option that I think about or look at just completely fails to check the boxes. I wish the GPD Pocket 4 was better built with active pen support and had the expansion modules using PCIE instead of usb protocols.
+
+- 
