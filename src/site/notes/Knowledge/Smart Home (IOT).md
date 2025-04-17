@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Knowledge/Smart Home (IOT)/","tags":["automation/home"]}
+{"dg-publish":true,"permalink":"/knowledge/smart-home-iot/","tags":["automation/home"]}
 ---
 
- 
+```meta-bind
+INPUT[progressBar(title(My Understanding)):Understanding]
+```
 - [[Knowledge/Home Assistants\|Home Assistants]] 
 - IOT Devices
 	- [[Smart Bulbs\|Smart Bulbs]]

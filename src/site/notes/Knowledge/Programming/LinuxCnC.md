@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Knowledge/Programming/LinuxCnC/","tags":["programming/linux","control-systems/CnC","opensource","programming"]}
+{"dg-publish":true,"permalink":"/knowledge/programming/linux-cn-c/","tags":["programming/linux","control-systems/CnC","opensource","programming"]}
 ---
 
- 
+```meta-bind
+INPUT[progressBar(title(My Understanding)):Understanding]
+```
 
 My current main focus is to use this to control servo/stepper motors via Ethercat 
 ### Resources 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/School/B-Fluid Power with applications/","title":"Fluid Power with Applications","tags":["book/textbook/MTRE"]}
+{"dg-publish":true,"permalink":"/school/b-fluid-power-with-applications/","title":"Fluid Power with Applications","tags":["book/textbook/MTRE"]}
 ---
 
 

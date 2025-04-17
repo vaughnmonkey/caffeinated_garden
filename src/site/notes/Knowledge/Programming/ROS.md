@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Knowledge/Programming/ROS/","tags":["programming","linux","robotics","opensource","industrial/software"]}
+{"dg-publish":true,"permalink":"/knowledge/programming/ros/","tags":["programming","linux","robotics","opensource","industrial/software"]}
 ---
 
- 
+```meta-bind
+INPUT[progressBar(title(My Understanding)):Understanding]
+```

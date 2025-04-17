@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Knowledge/Electroplating/","tags":["3d_printing","diy/material"]}
+{"dg-publish":true,"permalink":"/knowledge/electroplating/","tags":["3d_printing","diy/material"]}
 ---
 
 
- 
+```meta-bind
+INPUT[progressBar(title(My Understanding)):Understanding]
+```
 
 ## Resources 
 - [All3DP Article](https://all3dp.com/1/electroplating-3d-prints-all-you-need-to-know/) 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/School/B-MTRE Handbook/","title":"The Mechatronics Handbook","tags":["book/textbook/MTRE"]}
+{"dg-publish":true,"permalink":"/school/b-mtre-handbook/","title":"The Mechatronics Handbook","tags":["book/textbook/MTRE"]}
 ---
 
 # The Mechatronics Handbook 2nd Ed

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Knowledge/Starlite fireproof material/","tags":["engineering","diy/material"]}
+{"dg-publish":true,"permalink":"/knowledge/starlite-fireproof-material/","tags":["engineering","diy/material"]}
 ---
 
 # Starlite 

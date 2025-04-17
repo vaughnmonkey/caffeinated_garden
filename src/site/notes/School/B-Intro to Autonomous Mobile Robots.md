@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/School/B-Intro to Autonomous Mobile Robots/","title":"Introduction to Autonomous Mobile Robots","tags":["book/textbook/MTRE"]}
+{"dg-publish":true,"permalink":"/school/b-intro-to-autonomous-mobile-robots/","title":"Introduction to Autonomous Mobile Robots","tags":["book/textbook/MTRE"]}
 ---
 
 

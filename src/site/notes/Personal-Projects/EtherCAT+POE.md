@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal-Projects/EtherCAT+POE/","tags":["p_project","ethercat","industrial"]}
+{"dg-publish":true,"permalink":"/personal-projects/ether-cat-poe/","tags":["p_project","ethercat","industrial"]}
 ---
 
 # Applicable Knowledge

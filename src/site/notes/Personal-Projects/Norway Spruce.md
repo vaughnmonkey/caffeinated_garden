@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal-Projects/Norway Spruce/"}
+{"dg-publish":true,"permalink":"/personal-projects/norway-spruce/"}
 ---
 
 [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]

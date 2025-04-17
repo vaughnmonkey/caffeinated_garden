@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Knowledge/Industrial/Ethercat/","tags":["programming","electrical","industrial","diy/software"]}
+{"dg-publish":true,"permalink":"/knowledge/industrial/ethercat/","tags":["programming","electrical","industrial","diy/software"]}
 ---
 
- 
+```meta-bind
+INPUT[progressBar(title(My Understanding)):Understanding]
+```
 
 ### Found Resources 
 ##### Software 

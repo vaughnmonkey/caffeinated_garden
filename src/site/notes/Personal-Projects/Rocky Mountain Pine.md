@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal-Projects/Rocky Mountain Pine/"}
+{"dg-publish":true,"permalink":"/personal-projects/rocky-mountain-pine/"}
 ---
 
 [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]

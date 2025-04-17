@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/School/B-Modern Control Engr/","title":"Modern Controls Engineering","tags":["book/textbook/MTRE"]}
+{"dg-publish":true,"permalink":"/school/b-modern-control-engr/","title":"Modern Controls Engineering","tags":["book/textbook/MTRE"]}
 ---
 
 

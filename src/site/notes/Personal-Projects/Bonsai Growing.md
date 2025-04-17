@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal-Projects/Bonsai Growing/","tags":["p_project"]}
+{"dg-publish":true,"permalink":"/personal-projects/bonsai-growing/","tags":["p_project"]}
 ---
 
 # Applicable Knowledge

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal-Projects/Echotopea/"}
+{"dg-publish":true,"permalink":"/personal-projects/echotopea/"}
 ---
 
 

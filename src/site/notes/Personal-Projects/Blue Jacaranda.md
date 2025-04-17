@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal-Projects/Blue Jacaranda/"}
+{"dg-publish":true,"permalink":"/personal-projects/blue-jacaranda/"}
 ---
 
 [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]
