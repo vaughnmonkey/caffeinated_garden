@@ -6,8 +6,8 @@
 ## Active Projects
 | File                                                  | Last Touched   |
 | ----------------------------------------------------- | -------------- |
+| [[Personal-Projects/Travel-Router\|Travel-Router]] | April 21, 2025 |
 | [[Personal-Projects/TabDesk\|TabDesk]]             | April 17, 2025 |
-| [[Personal-Projects/Travel-Router\|Travel-Router]] | April 17, 2025 |
 | [[Personal-Projects/MyCnC\|MyCnC]]                 | April 14, 2025 |
 | [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]   | April 14, 2025 |
 
