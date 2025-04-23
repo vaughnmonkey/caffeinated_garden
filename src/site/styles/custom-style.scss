@@ -10,4 +10,17 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    // Scrollable embedded notes for project logs
+    
+.markdown-embed {
+    height: 100%; 
+    max-height: 44vh; 
+    overflow: scroll; 
+    padding: 0 0 0 8px;}
+
+.markdown-preview-section {
+    max-width: 100%;
+    margin: 0 0 0 0;
+    }
 }
