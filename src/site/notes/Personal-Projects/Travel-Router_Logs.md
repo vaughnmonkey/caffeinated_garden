@@ -1,36 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Personal-Projects/Travel-Router/","tags":["p_project"]}
+{"dg-publish":true,"permalink":"/Personal-Projects/Travel-Router_Logs/","tags":["p_project"]}
 ---
-
-
-# Applicable Knowledge
-- [[Knowledge/Circuit Design\|Circuit Design]] ?
-- Design for 3d printing
-- [[Knowledge/FreeCAD\|FreeCAD]] 
-	- hopefully unless I get annoyed with it again and just use Solidworks 
-
-# Project Tasks
-- [ ] Do this Project
-- [ ] compile the different options and see what the pros and cons are for each.
-
-{ .block-language-dataview}
-
-# Project Writeup 
-
-## Mission
-Get/build a travel router for security and convivence while we are traveling.
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Personal-Projects/Travel-Router_Logs/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# Work Logs
-
-</div>
-
-
 
 # Work Log 
 
@@ -62,7 +32,3 @@ I've been randomly looking at stuff for this all week but haven't really started
 
 - What types are the existing options for travel routers?
 	- 
-
-
-</div></div>
-

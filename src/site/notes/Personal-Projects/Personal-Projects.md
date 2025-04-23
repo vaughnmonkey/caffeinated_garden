@@ -6,7 +6,7 @@
 ## Active Projects
 | File                                                  | Last Touched   |
 | ----------------------------------------------------- | -------------- |
-| [[Personal-Projects/Travel-Router\|Travel-Router]] | April 21, 2025 |
+| [[Personal-Projects/Travel-Router\|Travel-Router]] | April 23, 2025 |
 | [[Personal-Projects/TabDesk\|TabDesk]]             | April 17, 2025 |
 | [[Personal-Projects/MyCnC\|MyCnC]]                 | April 14, 2025 |
 | [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]   | April 14, 2025 |
@@ -23,6 +23,7 @@
 ## Inactive Projects
 | File                                                                | Last Touched   |
 | ------------------------------------------------------------------- | -------------- |
+| [[Personal-Projects/Travel-Router_Logs\|Travel-Router_Logs]]     | April 23, 2025 |
 | [[Personal-Projects/Home Server\|Home Server]]                   | April 15, 2025 |
 | [[Personal-Projects/Ground-Air Drone\|Ground-Air Drone]]         | April 14, 2025 |
 | [[Personal-Projects/Filament dry-box\|Filament dry-box]]         | April 14, 2025 |
