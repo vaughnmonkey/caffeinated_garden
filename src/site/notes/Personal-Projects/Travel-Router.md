@@ -32,7 +32,6 @@ Get/build a travel router for security and convivence while we are traveling.
 
 
 
-# Work Log 
 
 ## 2025-04-16 13:44
 Project Started 

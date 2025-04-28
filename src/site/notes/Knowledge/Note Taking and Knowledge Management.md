@@ -70,7 +70,9 @@ Charting uses columns to organize the topics. This claims to be useful for lesso
 ### The Sentence Method
 The Sentence note taking method is simply writing down each topic as a jot note sentence. This method works well for fast paced lessons where a lot of information is being covered. 
 ![Note-Taking-Sentence-Method.webp|600](/img/user/Knowledge/attachments/Note-Taking-Sentence-Method.webp)
-This just seems like they gave a proper name to word vomiting everything that you hear/see about the lesson or topic. It doesn't really feel like its "organized" 
+This just seems like they gave a proper name to word vomiting everything that you hear/see about the lesson or topic. It doesn't really feel like its "organized".
+
+This is where I got bored and spiraled into the rabbit hole hyperfixation of [[Knowledge/Programming/CAM\|CAM]] Programming and toolpath generation. 
 # Knowledge Article Creation
 
 > [!cite]- Sources

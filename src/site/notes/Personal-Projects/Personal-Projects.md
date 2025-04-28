@@ -45,6 +45,7 @@
 # Ideas to Research 
 | File                                                         | Ideas                                                                                                                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Journal/Daily_Notes/2025/4-Apr/2025-04-24\|2025-04-24]] | PID stabilized carabiner for swinging waterbottle                                                                                                            |
 | [[Journal/Daily_Notes/2025/4-Apr/2025-04-17\|2025-04-17]] | 3d print and then cast in aluminum the logo mug. It would be funny to start doing youtube videos with a mug that looks like my logo                          |
 | [[Journal/Daily_Notes/2025/4-Apr/2025-04-15\|2025-04-15]] | 6-pack container for 5hour energy shots                                                                                                                      |
 | [[Journal/Daily_Notes/2025/4-Apr/2025-04-14\|2025-04-14]] | attachment for usbc soldering pen that feeds out the solder to the tip at your joystick control                                                              |

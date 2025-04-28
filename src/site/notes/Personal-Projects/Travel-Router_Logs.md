@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/Personal-Projects/Travel-Router_Logs/","tags":["p_project"]}
 ---
 
-# Work Log 
 
 ## 2025-04-16 13:44
 Project Started 
