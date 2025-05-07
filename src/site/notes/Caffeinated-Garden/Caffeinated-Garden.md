@@ -8,8 +8,8 @@ This is the splatter painting of my mind, knowledge and half finished projects s
 
 This site is powered by [Obsidian](https://obsidian.md/) my [Second Brain (PKMS)](https://fortelabs.com/blog/basboverview/) software of choice and published with the [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) Plugin.  
 ## My Published Directories
-- [[Knowledge/Knowledge\|Knowledge]]
 - [[Personal-Projects/Personal-Projects\|Personal-Projects]]
+- [[Knowledge/Knowledge\|Knowledge]]
 
 { .block-language-dataview}
 

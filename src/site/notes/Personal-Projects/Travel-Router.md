@@ -11,7 +11,7 @@
 
 # Project Tasks
 - [ ] Do this Project
-- [ ] compile the different options and see what the pros and cons are for each.
+- [ ] Research excisting versons and see if that lines up with what I want to do.
 
 { .block-language-dataview}
 
@@ -21,27 +21,17 @@
 Get/build a travel router for security and convivence while we are traveling.
 
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Personal-Projects/Travel-Router_Logs/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
 # Work Logs
-
-</div>
-
-
-
 
 ## 2025-04-16 13:44
 Project Started 
 - [ ] Do this Project
-- [x] Research excisting versons and see if that lines up with what I want to do. ✅ 2025-04-17
+- [ ] Research excisting versons and see if that lines up with what I want to do.
 
 ## 2025-04-17 
 - Researched the existing options and there are not many good diy projects so it might be easier and more useful to just buy one the open source options and add on a touchscreen interface
 	- possible having a raspbery pi zero or something similar plugged into the router and running the interface if the router doesn't have good display support options.
-- [ ]  compile the different options and see what the pros and cons are for each.
+- [x] compile the different options and see what the pros and cons are for each. ✅ 2025-05-07
 
 ## 2025-04-18
 
@@ -62,6 +52,7 @@ I've been randomly looking at stuff for this all week but haven't really started
 - What types are the existing options for travel routers?
 	- 
 
+## 2025-05-07 
 
-</div></div>
-
+- Decided to just get a pre-made router mostly out of convince and wanting a nice portable size 
+	- I went with this [Slate AX](https://www.amazon.com/dp/B0B2J7WSDK?ref=ppx_yo2ov_dt_b_fed_asin_title) from GL.iNet

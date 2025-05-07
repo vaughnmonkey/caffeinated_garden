@@ -30,6 +30,15 @@
     - [ ] Ethercat connected motors and/or sensors
 - [ ] Research Epoxy concrete as more dimensionally stable than water based for filling parts
     - [Tutorial](https://www.acncf.site/cnc_lathe_epoxy_granite_base/)
+- [ ] Design Tasks
+    - [ ] Import files and assemble in Solidworks
+    - [ ] expand x-y plane
+        - [ ] Might also need to adapt the z axis pillar to work with the extra Y depth.
+    - [ ] Measure all dimensions of Audio rack Supports to create in Solidworks (probably as a custom weldments)
+    - [ ] adapt model to use audio rack supports
+        - [ ] as metal supports for the concrete
+        - [ ] as mounting screw holes for linear rails
+            - [ ] Check the standard spacing for linear rails to see if it would work at all with the audio racks
 
 { .block-language-dataview}
 
@@ -93,3 +102,23 @@ The main source I'm wanting to use for my version of the CnC Mill is the one des
 
 ## 2025-04-14
 - Changed to the new project format and published 
+
+## 2025-05-05
+
+- files are released by Chris! 
+	- I know that I want to make some key modifications:
+		- adapting the design to use the audio rack rails that I have as the main metal structural members and to use the existing threaded holes on them to secure my linear rails and other motion components
+		- increasing work area (at least in the x-y plane)
+		- possibility of adding auto-tool changer in the future by exposing extra threaded holes on the sides of the column and along the back edge of the x-y platform.
+
+- [ ] Design Tasks
+	- [ ] Import files and assemble in Solidworks
+	- [ ] expand x-y plane
+		- [ ] Might also need to adapt the z axis pillar to work with the extra Y depth.
+	- [ ] Measure all dimensions of Audio rack Supports to create in Solidworks (probably as a custom weldments)
+	- [ ] adapt model to use audio rack supports 
+		- [ ] as metal supports for the concrete 
+		- [ ] as mounting screw holes for linear rails
+			- [ ] Check the standard spacing for linear rails to see if it would work at all with the audio racks 
+
+- 

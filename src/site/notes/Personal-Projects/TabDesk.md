@@ -123,6 +123,8 @@ My current thoughts on the structure and components are a variation of the linke
 	- [BT-12HDT](https://www.aliexpress.com/i/3256805875327431.html?gatewayAdapt=4itemAdapt) (11.6")  ⭐ ($169/$212) 
 		- this is a drawing tablet with touch support
 		- the one with built-in hotkeys is ~$45 more expensive and makes the device larger than necessary so I'm leaning towards not having it, but IDK cause hotkeys on a tablet sound nice as fuck to have.
+	- surface go replacement screen using LVDS cable into mobo
+		- 
 - Battery System: 
 	- (18650 cells connected to a controller, induvial cells but 3d-print a case to enable fast swapping) 
 		- adapt the mnt reform next battery system. (need to take their extremely integrated system and distil it down into a more standalone verson.)
