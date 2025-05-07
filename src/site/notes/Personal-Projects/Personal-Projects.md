@@ -23,7 +23,6 @@
 | File                                                                | Last Touched |
 | ------------------------------------------------------------------- | ------------ |
 | [[Personal-Projects/Travel-Router\|Travel-Router]]               | May 07, 2025 |
-| [[Personal-Projects/Travel-Router_Logs\|Travel-Router_Logs]]     | May 07, 2025 |
 | [[Personal-Projects/Home Server\|Home Server]]                   | May 04, 2025 |
 | [[Personal-Projects/Ground-Air Drone\|Ground-Air Drone]]         | May 04, 2025 |
 | [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]             | May 04, 2025 |
