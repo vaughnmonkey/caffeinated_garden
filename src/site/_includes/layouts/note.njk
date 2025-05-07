@@ -90,6 +90,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endfor %}
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
+      {% include "components/0_Comments.njk" %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
   </body>
