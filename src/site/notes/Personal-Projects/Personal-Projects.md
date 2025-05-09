@@ -14,7 +14,7 @@
 ### Micro-Projects 
 | File                                                                            | Last Addition |
 | ------------------------------------------------------------------------------- | ------------- |
-| [[Personal-Projects/3D-Printed Micro-Projects\|3D-Printed Micro-Projects]]   | May 04, 2025  |
+| [[Personal-Projects/3D-Printed Micro-Projects\|3D-Printed Micro-Projects]]   | May 09, 2025  |
 | [[Personal-Projects/Programming Micro-Projects\|Programming Micro-Projects]] | May 04, 2025  |
 
 { .block-language-dataview}
