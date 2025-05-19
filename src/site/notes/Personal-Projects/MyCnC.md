@@ -20,6 +20,9 @@
 	 - [light ethercat slave](https://sourceforge.net/p/ecslave/wiki/Howto/) 
 	 - possible [ethercat slave hardware ](https://youtu.be/l3UzEkGvNVM?si=NLPmLq7a6gMfDBxc) 
 	 - Make my own [[Personal-Projects/EtherSweep+Power\|EtherSweep+Power]] 
+	 - [EtherCAT Click](https://www.mikroe.com/ethercat-click) 
+		 - click board for etherCAT! 
+		 - only $44 and has a double stacked ethercat plug! I initially thought it was only a single so I didn't include it. This board uses the LAN9252 chip so might have the same issues that 
  - [[Knowledge/Programming/ROS\|ROS]] 
 
 # Project Tasks
@@ -61,7 +64,7 @@
 - [EpoCAT Controller](https://www.bausano.net/en/epocat-fr1000-fr4000-2) 
 	- up to 5-axis cnc control with RTCP
 	- Cost = 400 euros 
-- 
+- - [EtherCAT Click](https://www.mikroe.com/ethercat-click) 
 
 # Project Writeup 
 

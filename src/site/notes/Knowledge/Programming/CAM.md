@@ -51,4 +51,4 @@
 # What is CAM? 
 
 The simple answer is that CAM stands for Computer Aided Manufacturing, but that doesn't really tell you anything useful. So I'm hoping to compile a technical source for understanding what is going on under the hood of your CAM software. 
-So far from what I can understand CAM is the application of [[Knowledge/Math/computational-geometry\|computational geometry]] for tool path planning. This is a fancy way of saying calculating how to move the machining tool to get the final shape from your 3d-Model. 
+So far from what I can understand CAM is the application of [[Knowledge/Math/Computational-Geometry\|computational geometry]] for tool path planning. This is a fancy way of saying calculating how to move the machining tool to get the final shape from your 3d-Model. 
