@@ -6,7 +6,7 @@
 ## Active Projects
 | File                                                                | Last Touched |
 | ------------------------------------------------------------------- | ------------ |
-| [[Personal-Projects/Reckless Server Case\|Reckless Server Case]] | May 24, 2025 |
+| [[Personal-Projects/Rackless Server Case\|Rackless Server Case]] | May 30, 2025 |
 | [[Personal-Projects/MyCnC\|MyCnC]]                               | May 20, 2025 |
 | [[Personal-Projects/TabDesk\|TabDesk]]                           | May 04, 2025 |
 | [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]                 | May 04, 2025 |
