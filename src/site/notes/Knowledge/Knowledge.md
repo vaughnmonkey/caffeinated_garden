@@ -13,6 +13,7 @@
     - [[Knowledge/Circuit Design\|Circuit Design]]
 
 - Industrial: 
+    - [[Knowledge/Industrial/Navitec\|Navitec]]
     - [[Knowledge/Industrial/Ethercat\|Ethercat]]
     - [[Knowledge/Industrial/Cascade\|Cascade]]
 
@@ -28,6 +29,7 @@
     - [[Knowledge/Math/Computational-Geometry\|Computational-Geometry]]
 
 - Programming: 
+    - [[Knowledge/Programming/Rust\|Rust]]
     - [[Knowledge/Programming/ROS\|ROS]]
     - [[Knowledge/Programming/CAM\|CAM]]
 
@@ -37,6 +39,7 @@
 - Software: 
     - [[Knowledge/Smart Home (IOT)\|Smart Home (IOT)]]
     - [[Knowledge/Programming/SQL Databases\|SQL Databases]]
+    - [[Knowledge/Programming/MS-Excel\|MS-Excel]]
     - [[Knowledge/Programming/LinuxCnC\|LinuxCnC]]
     - [[Knowledge/Home Assistants\|Home Assistants]]
     - [[Knowledge/FreeCAD\|FreeCAD]]
@@ -76,11 +79,11 @@
 ## Textbooks
 | File                                                                                   | title                                    | author          | class                                 |
 | -------------------------------------------------------------------------------------- | ---------------------------------------- | --------------- | ------------------------------------- |
-| [[School/B-System Dynamics\|B-System Dynamics]]                                     | System Dynamics                          | Katsuhiko Ogata | Modeling & Feedback Control           |
 | [[School/B-MTRE Handbook\|B-MTRE Handbook]]                                         | The Mechatronics Handbook                | \-              | Mechatronics Engineering Fundamentals |
+| [[School/B-System Dynamics\|B-System Dynamics]]                                     | System Dynamics                          | Katsuhiko Ogata | Modeling & Feedback Control           |
 | [[School/B-Modern Control Engr\|B-Modern Control Engr]]                             | Modern Controls Engineering              | Katsuhiko Ogata | Modeling and Feedback Control         |
-| [[School/B-Intro to Autonomous Mobile Robots\|B-Intro to Autonomous Mobile Robots]] | Introduction to Autonomous Mobile Robots | Roland Siegwart | Mechatronics Engineering Fundamentals |
 | [[School/B-Fluid Power with applications\|B-Fluid Power with applications]]         | Fluid Power with Applications            | \-              | Fluid Power                           |
+| [[School/B-Intro to Autonomous Mobile Robots\|B-Intro to Autonomous Mobile Robots]] | Introduction to Autonomous Mobile Robots | Roland Siegwart | Mechatronics Engineering Fundamentals |
 | [[School/B-Control Systems Engr\|B-Control Systems Engr]]                           | Control Systems Engineering              | Norman S. Nise  | Modeling & Feedback Control           |
 
 { .block-language-dataview}

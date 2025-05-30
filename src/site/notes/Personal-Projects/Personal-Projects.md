@@ -4,11 +4,12 @@
 
 
 ## Active Projects
-| File                                                | Last Touched |
-| --------------------------------------------------- | ------------ |
-| [[Personal-Projects/MyCnC\|MyCnC]]               | May 09, 2025 |
-| [[Personal-Projects/TabDesk\|TabDesk]]           | May 04, 2025 |
-| [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]] | May 04, 2025 |
+| File                                                                | Last Touched |
+| ------------------------------------------------------------------- | ------------ |
+| [[Personal-Projects/Reckless Server Case\|Reckless Server Case]] | May 24, 2025 |
+| [[Personal-Projects/MyCnC\|MyCnC]]                               | May 20, 2025 |
+| [[Personal-Projects/TabDesk\|TabDesk]]                           | May 04, 2025 |
+| [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]                 | May 04, 2025 |
 
 { .block-language-dataview}
 ### Micro-Projects 
@@ -22,6 +23,7 @@
 ## Inactive Projects
 | File                                                                | Last Touched |
 | ------------------------------------------------------------------- | ------------ |
+| [[Personal-Projects/Mu-Carrier-Phone\|Mu-Carrier-Phone]]         | May 29, 2025 |
 | [[Personal-Projects/Travel-Router\|Travel-Router]]               | May 07, 2025 |
 | [[Personal-Projects/Home Server\|Home Server]]                   | May 04, 2025 |
 | [[Personal-Projects/Ground-Air Drone\|Ground-Air Drone]]         | May 04, 2025 |
@@ -44,6 +46,7 @@
 # Ideas to Research 
 | File                                                         | Ideas                                                                                                                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Journal/Daily_Notes/2025/5-May/2025-05-21\|2025-05-21]] | Ploopy trackball setup to have modular macro buttons/pads like the Ocreeb MK2                                                                                |
 | [[Journal/Daily_Notes/2025/5-May/2025-05-04\|2025-05-04]] | use the trackball mouse I have to make a trackball focused macropad device                                                                                   |
 | [[Journal/Daily_Notes/2025/5-May/2025-05-03\|2025-05-03]] | CM4 board carrier for kali linux phone                                                                                                                       |
 | [[Journal/Daily_Notes/2025/4-Apr/2025-04-24\|2025-04-24]] | PID stabilized carabiner for swinging waterbottle                                                                                                            |
