@@ -11,6 +11,10 @@
 	- Texas Instruments Reference design 
 - [EtherCAT Servodrive](https://hackaday.io/project/181058-ethercat-servodrive) 
 	- [EtherCAT Shield V1](https://kubabuda.github.io/ecat_servo/html/ax58100rev1_ibom.html) 
+- [DieBieSlave](https://www.youtube.com/watch?v=i7gFqLQb0EA) 
+	- [Hardware github](https://github.com/DieBieEngineering/DieBieSlave) 
+	- [Software github](https://github.com/DieBieEngineering/DieBieSlave-Firmware-Nunchuck?tab=readme-ov-file) 
+- 
 
 
 # Project Tasks

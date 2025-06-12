@@ -25,6 +25,7 @@
 { .block-language-dataview}
 # Research 
 ## First Googling 
+
 - Fans known as Rustacians 
 	- ![Pasted image 20250522075238.png|250](/img/user/Knowledge/Programming/Pasted%20image%2020250522075238.png) 
 - What is rust?

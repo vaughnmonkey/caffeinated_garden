@@ -35,3 +35,9 @@ These dimensions are from this [amazon](https://www.amazon.com/FEITA-Soldering-R
 ## Result 
 
 
+# Embroidery hoop Lampshade 
+
+## Work 
+- inner diameter = 20.5cm 
+	- ![20250609_175741 1.jpg](/img/user/Personal-Projects/20250609_175741%201.jpg) 
+- 
