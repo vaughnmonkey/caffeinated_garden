@@ -50,4 +50,7 @@ Project Started
 		- old laptop 1 ?
 		- old laptop 2 ?
 	- 1 switch (possibly it's currently used in the shop but mostly connected to computers planned for the server soooo)
-- 
+
+## 2025-06-12 
+
+- looked into having a compressed air powered vortex cooling system running thru the center of the server stack.

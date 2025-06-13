@@ -6,9 +6,9 @@
 ## Active Projects
 | File                                                                | Last Touched  |
 | ------------------------------------------------------------------- | ------------- |
+| [[Personal-Projects/Rackless Server Case\|Rackless Server Case]] | June 13, 2025 |
 | [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]                | June 13, 2025 |
 | [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]                 | June 12, 2025 |
-| [[Personal-Projects/Rackless Server Case\|Rackless Server Case]] | May 30, 2025  |
 | [[Personal-Projects/MyCnC\|MyCnC]]                               | May 20, 2025  |
 | [[Personal-Projects/TabDesk\|TabDesk]]                           | May 04, 2025  |
 
