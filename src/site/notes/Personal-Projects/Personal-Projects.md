@@ -6,6 +6,7 @@
 ## Active Projects
 | File                                                                | Last Touched  |
 | ------------------------------------------------------------------- | ------------- |
+| [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]                | June 13, 2025 |
 | [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]                 | June 12, 2025 |
 | [[Personal-Projects/Rackless Server Case\|Rackless Server Case]] | May 30, 2025  |
 | [[Personal-Projects/MyCnC\|MyCnC]]                               | May 20, 2025  |
@@ -31,7 +32,6 @@
 | [[Personal-Projects/Filament dry-box\|Filament dry-box]]         | May 04, 2025 |
 | [[Personal-Projects/EtherSweep+Power\|EtherSweep+Power]]         | May 04, 2025 |
 | [[Personal-Projects/Ultimate Controller\|Ultimate Controller]]   | May 04, 2025 |
-| [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]                | May 04, 2025 |
 | [[Personal-Projects/DnD game board table\|DnD game board table]] | May 04, 2025 |
 | [[Personal-Projects/Thor_Arm/My Thor\|My Thor]]                  | May 04, 2025 |
 
