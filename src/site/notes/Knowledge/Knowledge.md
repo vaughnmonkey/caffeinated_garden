@@ -8,14 +8,15 @@
     - [[Knowledge/Cardomancy\|Cardomancy]]
 
 - Hardware: 
-    - [[Knowledge/Flipper_Zero\|Flipper_Zero]]
     - [[Knowledge/Tools/EDC\|EDC]]
+    - [[Knowledge/KiCad\|KiCad]]
+    - [[Knowledge/Flipper_Zero\|Flipper_Zero]]
     - [[Knowledge/Circuit Design\|Circuit Design]]
 
 - Industrial: 
     - [[Knowledge/Industrial/Navitec\|Navitec]]
-    - [[Knowledge/Industrial/Ethercat\|Ethercat]]
     - [[Knowledge/Industrial/Cascade\|Cascade]]
+    - [[Knowledge/Industrial/Ethercat\|Ethercat]]
 
 - Language: 
     - [[Knowledge/Italian Language\|Italian Language]]
@@ -33,8 +34,8 @@
 
 - Programming: 
     - [[Knowledge/Programming/Rust\|Rust]]
-    - [[Knowledge/Programming/ROS\|ROS]]
     - [[Knowledge/Programming/CAM\|CAM]]
+    - [[Knowledge/Programming/ROS\|ROS]]
 
 - Soft-Skills: 
     - [[Knowledge/Note Taking and Knowledge Management\|Note Taking and Knowledge Management]]

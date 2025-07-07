@@ -3,7 +3,20 @@
 ---
 
  
-# What is SQL
+> [!sources]
+> - [SQL Wikipedia](https://en.wikipedia.org/wiki/SQL) 
+> - [W3 Tutorial](https://www.w3schools.com/sql/) 
+> - 
 
-# How it's used 
+
+# Research 
+
+- What is SQL?
+	- it is an acronym for Structured Query Language 
+	- Lets you access and manipulate databases
+- How is it used?
+	- In general?
+		- 
+	- Specifically by [[Work/JBT/JBT\|my job]]?
+- 
 
