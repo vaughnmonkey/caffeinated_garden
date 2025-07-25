@@ -15,8 +15,8 @@
 
 - Industrial: 
     - [[Knowledge/Industrial/Navitec\|Navitec]]
-    - [[Knowledge/Industrial/Cascade\|Cascade]]
     - [[Knowledge/Industrial/Ethercat\|Ethercat]]
+    - [[Knowledge/Industrial/Cascade\|Cascade]]
 
 - Language: 
     - [[Knowledge/Italian Language\|Italian Language]]
@@ -34,8 +34,8 @@
 
 - Programming: 
     - [[Knowledge/Programming/Rust\|Rust]]
-    - [[Knowledge/Programming/CAM\|CAM]]
     - [[Knowledge/Programming/ROS\|ROS]]
+    - [[Knowledge/Programming/CAM\|CAM]]
 
 - Soft-Skills: 
     - [[Knowledge/Note Taking and Knowledge Management\|Note Taking and Knowledge Management]]

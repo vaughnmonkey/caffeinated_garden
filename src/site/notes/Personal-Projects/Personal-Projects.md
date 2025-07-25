@@ -6,34 +6,34 @@
 ## Active Projects
 | File                                                                | Last Touched  |
 | ------------------------------------------------------------------- | ------------- |
-| [[Personal-Projects/Mu-Carrier-Phone\|Mu-Carrier-Phone]]         | July 03, 2025 |
+| [[Personal-Projects/Mu-Carrier-Phone\|Mu-Carrier-Phone]]         | July 16, 2025 |
 | [[Personal-Projects/Rackless Server Case\|Rackless Server Case]] | June 13, 2025 |
-| [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]                | June 13, 2025 |
-| [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]                 | June 12, 2025 |
-| [[Personal-Projects/MyCnC\|MyCnC]]                               | May 20, 2025  |
-| [[Personal-Projects/TabDesk\|TabDesk]]                           | May 01, 2025  |
 
 { .block-language-dataview}
 ### Micro-Projects 
-| File                                                                            | Last Addition  |
-| ------------------------------------------------------------------------------- | -------------- |
-| [[Personal-Projects/3D-Printed Micro-Projects\|3D-Printed Micro-Projects]]   | June 09, 2025  |
-| [[Personal-Projects/Programming Micro-Projects\|Programming Micro-Projects]] | April 16, 2025 |
+| File                                                                            | Last Addition |
+| ------------------------------------------------------------------------------- | ------------- |
+| [[Personal-Projects/3D-Printed Micro-Projects\|3D-Printed Micro-Projects]]   | June 09, 2025 |
+| [[Personal-Projects/Programming Micro-Projects\|Programming Micro-Projects]] | May 04, 2025  |
 
 { .block-language-dataview}
 
 ## Inactive Projects
-| File                                                                | Last Touched   |
-| ------------------------------------------------------------------- | -------------- |
-| [[Personal-Projects/Travel-Router\|Travel-Router]]               | May 07, 2025   |
-| [[Personal-Projects/Home Server\|Home Server]]                   | April 15, 2025 |
-| [[Personal-Projects/Ground-Air Drone\|Ground-Air Drone]]         | April 14, 2025 |
-| [[Personal-Projects/Filament dry-box\|Filament dry-box]]         | April 14, 2025 |
-| [[Personal-Projects/EtherSweep+Power\|EtherSweep+Power]]         | April 14, 2025 |
-| [[Personal-Projects/DnD game board table\|DnD game board table]] | April 14, 2025 |
-| [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]             | April 14, 2025 |
-| [[Personal-Projects/Ultimate Controller\|Ultimate Controller]]   | April 14, 2025 |
-| [[Personal-Projects/Thor_Arm/My Thor\|My Thor]]                  | April 14, 2025 |
+| File                                                                | Last Touched  |
+| ------------------------------------------------------------------- | ------------- |
+| [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]                 | July 21, 2025 |
+| [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]                | July 21, 2025 |
+| [[Personal-Projects/TabDesk\|TabDesk]]                           | July 21, 2025 |
+| [[Personal-Projects/MyCnC\|MyCnC]]                               | July 21, 2025 |
+| [[Personal-Projects/Travel-Router\|Travel-Router]]               | May 07, 2025  |
+| [[Personal-Projects/Home Server\|Home Server]]                   | May 04, 2025  |
+| [[Personal-Projects/Ground-Air Drone\|Ground-Air Drone]]         | May 04, 2025  |
+| [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]             | May 04, 2025  |
+| [[Personal-Projects/Filament dry-box\|Filament dry-box]]         | May 04, 2025  |
+| [[Personal-Projects/EtherSweep+Power\|EtherSweep+Power]]         | May 04, 2025  |
+| [[Personal-Projects/Ultimate Controller\|Ultimate Controller]]   | May 04, 2025  |
+| [[Personal-Projects/DnD game board table\|DnD game board table]] | May 04, 2025  |
+| [[Personal-Projects/Thor_Arm/My Thor\|My Thor]]                  | May 04, 2025  |
 
 { .block-language-dataview}
 
@@ -56,9 +56,9 @@
 | [[Journal/Daily_Notes/2025/3-Mar/2025-03-14\|2025-03-14]] | Logo of coffee cup with gear handle and circuit printed on the mug , Caffeinated Inovator or Caffeination Innovation                                         |
 | [[Journal/Daily_Notes/2025/2-Feb/2025-02-28\|2025-02-28]] | Scissor lift mechanism to make a flat folding mechanics stool for traveling stool                                                                            |
 | [[Journal/Daily_Notes/2025/2-Feb/2025-02-21\|2025-02-21]] | nfc powered and connected sliding phone keyboard attached magnetically {Adafruit ST25DV16K NFC tag could work}                                               |
-| [[Journal/Daily_Notes/2025/2-Feb/2025-02-03\|2025-02-03]] | Rechargable AA/AAA batteries that have the option to recharge wirelessly                                                                                     |
 | [[Journal/Daily_Notes/2025/2-Feb/2025-02-19\|2025-02-19]] | Module CPU adapter, something to accept a normal cpu and then let me route it to separate modules for ram/ports or anything else a desktop needs to function |
-| [[Journal/Daily_Notes/2025/1-Jan/2025-01-29\|2025-01-29]] | cleaning robot attached to back of the toilet that sees a male standing to pee and automatically cleans around the toilet and possibly the seat/rim too      |
 | [[Journal/Daily_Notes/2025/2-Feb/2025-02-09\|2025-02-09]] | diy cnc machine using parallel arms like a horizontal delta machine                                                                                          |
+| [[Journal/Daily_Notes/2025/2-Feb/2025-02-03\|2025-02-03]] | Rechargable AA/AAA batteries that have the option to recharge wirelessly                                                                                     |
+| [[Journal/Daily_Notes/2025/1-Jan/2025-01-29\|2025-01-29]] | cleaning robot attached to back of the toilet that sees a male standing to pee and automatically cleans around the toilet and possibly the seat/rim too      |
 
 { .block-language-dataview}
