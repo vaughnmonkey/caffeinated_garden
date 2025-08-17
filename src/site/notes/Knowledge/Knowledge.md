@@ -35,6 +35,7 @@
 - Programming: 
     - [[Knowledge/Programming/Rust\|Rust]]
     - [[Knowledge/Programming/ROS\|ROS]]
+    - [[Knowledge/Programming/Python\|Python]]
     - [[Knowledge/Programming/CAM\|CAM]]
 
 - Soft-Skills: 
@@ -43,10 +44,10 @@
 - Software: 
     - [[Knowledge/Smart Home (IOT)\|Smart Home (IOT)]]
     - [[Knowledge/Programming/SQL Databases\|SQL Databases]]
-    - [[Knowledge/Programming/MS-Excel\|MS-Excel]]
     - [[Knowledge/Programming/LinuxCnC\|LinuxCnC]]
-    - [[Knowledge/Home Assistants\|Home Assistants]]
+    - [[Knowledge/Programming/MS-Excel\|MS-Excel]]
     - [[Knowledge/FreeCAD\|FreeCAD]]
+    - [[Knowledge/Home Assistants\|Home Assistants]]
 
 
 { .block-language-dataview}

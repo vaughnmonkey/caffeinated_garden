@@ -4,20 +4,23 @@
 
  
 
-### Found Resources 
-##### Software 
-- [Open EtherCAT Society](https://openethercatsociety.github.io/) 
-- [light ethercat slave](https://sourceforge.net/p/ecslave/wiki/Howto/)
-- Join [EtherCat Technology Group](https://www.ethercat.org/en/membership_application.html) 
-- [ROS Ethercat](https://github.com/shadow-robot/ros_ethercat) 
-- 
-##### Hardware 
-- [EtherSweep](https://github.com/Neumi/ethersweep/tree/master) 
-- [EtherCAT Servodrive](https://hackaday.io/project/181058-ethercat-servodrive) 
-	- [EtherCAT Shield V1](https://kubabuda.github.io/ecat_servo/html/ax58100rev1_ibom.html) 
-- [Beckoff dev board](https://www.beckhoff.com/en-us/products/i-o/ethercat-development-products/elxxxx-etxxxx-fbxxxx-hardware/fb1311.html) 
-- [Adifruit POE power and data splitter 12v](https://www.adafruit.com/product/3238) 
-- 
+> [!sources]-
+> - Tutorials
+> 	- [EC-Engineer EtherCAT Video Series](https://www.youtube.com/playlist?list=PLTukVRCHZ-iemwehzSRYpio006_vcAIvk) 
+> - Software 
+> 	- [Open EtherCAT Society](https://openethercatsociety.github.io/) 
+> 	- [light ethercat slave](https://sourceforge.net/p/ecslave/wiki/Howto/)
+> 	- Join [EtherCat Technology Group](https://www.ethercat.org/en/membership_application.html) 
+> 	- [ROS Ethercat](https://github.com/shadow-robot/ros_ethercat) 
+> 	- 
+> - Hardware 
+> 	- [EtherSweep](https://github.com/Neumi/ethersweep/tree/master) 
+> 	- [EtherCAT Servodrive](https://hackaday.io/project/181058-ethercat-servodrive) 
+> 		- [EtherCAT Shield V1](https://kubabuda.github.io/ecat_servo/html/ax58100rev1_ibom.html) 
+> 	- [Beckoff dev board](https://www.beckhoff.com/en-us/products/i-o/ethercat-development-products/elxxxx-etxxxx-fbxxxx-hardware/fb1311.html) 
+> 	-  [Adifruit POE power and data splitter 12v](https://www.adafruit.com/product/3238)
+
+ 
 
 ## Hardware Options
 ### Personal DIY Ethercat+Power Adapter
@@ -32,12 +35,21 @@
 - [EtherSweep](https://github.com/Neumi/ethersweep/tree/master) 
 - [EtherCAT Servodrive](https://hackaday.io/project/181058-ethercat-servodrive) 
 	- [EtherCAT Shield V1](https://kubabuda.github.io/ecat_servo/html/ax58100rev1_ibom.html) 
-### Professional Hardware
+### Consumer Hardware
 #### Hobbyist
+- [Mikroe EtherCAT Click](https://www.mikroe.com/ethercat-click) 
+- [EasyCAT Pro](https://www.bausano.net/en/easycat-pro-2) 
 - 
 
 #### Industrial
 - [Beckoff dev board](https://www.beckhoff.com/en-us/products/i-o/ethercat-development-products/elxxxx-etxxxx-fbxxxx-hardware/fb1311.html) 
+
+# Research Notes
+
+- EtherCAT is an ethernet based communication protocol used by industry for real-time communication between devices in the chain
+	- Made by Bechoff but is an open protocol that anyone can use 
+- 
+
 
 ---
 # What is Ethercat
