@@ -4,7 +4,7 @@
 
 # Applicable Knowledge
 - [[Knowledge/Industrial/Ethercat\|Ethercat]] 
-- [[School/Mechatronics, Industrial, and IOT Communication\|Mechatronics, Industrial, and IOT Communication]] 
+- [[Knowledge/School/Mechatronics, Industrial, and IOT Communication\|Mechatronics, Industrial, and IOT Communication]] 
 - [[Knowledge/Circuit Design\|Circuit Design]] 
 
 ## Resources
