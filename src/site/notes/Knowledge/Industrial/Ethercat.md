@@ -7,7 +7,9 @@
 > [!sources]-
 > - Tutorials
 > 	- [EC-Engineer EtherCAT Video Series](https://www.youtube.com/playlist?list=PLTukVRCHZ-iemwehzSRYpio006_vcAIvk) 
+> 	- [[Knowledge/TwinCAT\|TwinCAT]]
 > - Software 
+> 	-  [Beckhoff TwinCAT3](learn.beckhoffus.com) 
 > 	- [Open EtherCAT Society](https://openethercatsociety.github.io/) 
 > 	- [light ethercat slave](https://sourceforge.net/p/ecslave/wiki/Howto/)
 > 	- Join [EtherCat Technology Group](https://www.ethercat.org/en/membership_application.html) 

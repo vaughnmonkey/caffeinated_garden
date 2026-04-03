@@ -7,6 +7,9 @@
 
 My current main focus is to use this to control servo/stepper motors via Ethercat 
 ### Resources 
+- Tutorials
+	- [Raspberry Pi w/ 5-axis breakout](https://www.youtube.com/watch?v=sWLY2a4o44s&t=13s) 
+	- 
 - Hardware
 	- [BeagleBone Parallel ](https://machinekoder.com/)
 		- [CnC Cape](https://www.necitec.de/index.php/en/cnc-cape) 

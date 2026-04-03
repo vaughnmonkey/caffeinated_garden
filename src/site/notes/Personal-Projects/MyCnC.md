@@ -4,6 +4,7 @@
 
 ### Resources 
 - [CnC Cookbook](https://www.cnccookbook.com/) 
+	- [CnC CookBook DIY CnC Mill Conversion](https://www.cnccookbook.com/ultimate-benchtop-cnc-mini-mill-part-1-the-donor-mill/) 
 - 
 ### Ideas to Expand/Research
 -  setting aluminum extrusions into my 3d printed molds before filling with contrete/epoxy granite to have solid non-plastic mounting points
@@ -125,5 +126,10 @@ The main source I'm wanting to use for my version of the CnC Mill is the one des
 			- [ ] Check the standard spacing for linear rails to see if it would work at all with the audio racks 
 
 
-## 2025/05/20
+## 2025/08/27
+
+- I just found a great video/resource on Epoxy Granite aka epoxy concrete 
+	- I think that I might diverge from being a large clone of [[Personal-Projects/MyCnC#Chris Borge Notes\|MyCnC#Chris Borge Notes]] into something more like a coreXY voron type cnc with the ability to do 5-axis cnc and 3d printing like this [Archer Demonstrator](https://multipoledynamics.com/) build from the [multipoleguy](https://www.youtube.com/@multipoleguy) on youtube 
+		- hopefully he'll release his slicer and other files soon since it seemed like he was very pro-open source
+- 
 

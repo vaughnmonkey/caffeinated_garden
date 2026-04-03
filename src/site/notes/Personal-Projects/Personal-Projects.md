@@ -4,10 +4,13 @@
 
 
 ## Active Projects
-| File                                                                | Last Touched  |
-| ------------------------------------------------------------------- | ------------- |
-| [[Personal-Projects/Mu-Carrier-Phone\|Mu-Carrier-Phone]]         | July 16, 2025 |
-| [[Personal-Projects/Rackless Server Case\|Rackless Server Case]] | June 13, 2025 |
+| File                                                                | Last Touched       |
+| ------------------------------------------------------------------- | ------------------ |
+| [[Personal-Projects/MyCnC\|MyCnC]]                               | October 29, 2025   |
+| [[Personal-Projects/Rotaraptor\|Rotaraptor]]                     | October 27, 2025   |
+| [[Personal-Projects/Home Server\|Home Server]]                   | October 15, 2025   |
+| [[Personal-Projects/Mu-Carrier-Phone\|Mu-Carrier-Phone]]         | September 18, 2025 |
+| [[Personal-Projects/Rackless Server Case\|Rackless Server Case]] | June 13, 2025      |
 
 { .block-language-dataview}
 ### Micro-Projects 
@@ -24,9 +27,7 @@
 | [[Personal-Projects/EtherCAT+POE\|EtherCAT+POE]]                 | July 21, 2025 |
 | [[Personal-Projects/BLDC/BLDC_Servo\|BLDC_Servo]]                | July 21, 2025 |
 | [[Personal-Projects/TabDesk\|TabDesk]]                           | July 21, 2025 |
-| [[Personal-Projects/MyCnC\|MyCnC]]                               | July 21, 2025 |
 | [[Personal-Projects/Travel-Router\|Travel-Router]]               | May 07, 2025  |
-| [[Personal-Projects/Home Server\|Home Server]]                   | May 04, 2025  |
 | [[Personal-Projects/Ground-Air Drone\|Ground-Air Drone]]         | May 04, 2025  |
 | [[Personal-Projects/Bonsai Growing\|Bonsai Growing]]             | May 04, 2025  |
 | [[Personal-Projects/Filament dry-box\|Filament dry-box]]         | May 04, 2025  |
@@ -46,6 +47,9 @@
 # Ideas to Research 
 | File                                                         | Ideas                                                                                                                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Journal/Daily_Notes/2025/9-Sep/2025-09-05\|2025-09-05]] | using old drill/power tool motors for bldc servos since they are already high torque and relatively easy to find                                             |
+| [[Journal/Daily_Notes/2025/9-Sep/2025-09-03\|2025-09-03]] | Mouse without borders paired dongles for dedicated wireless connection between multiple pcs                                                                  |
+| [[Journal/Daily_Notes/2025/8-Aug/2025-08-28\|2025-08-28]] | small device that when you plug in a usb and a sd card it transfers all the things in a predetermined folder from the usb onto the sd card automatically     |
 | [[Journal/Daily_Notes/2025/5-May/2025-05-21\|2025-05-21]] | Ploopy trackball setup to have modular macro buttons/pads like the Ocreeb MK2                                                                                |
 | [[Journal/Daily_Notes/2025/5-May/2025-05-04\|2025-05-04]] | use the trackball mouse I have to make a trackball focused macropad device                                                                                   |
 | [[Journal/Daily_Notes/2025/4-Apr/2025-04-24\|2025-04-24]] | PID stabilized carabiner for swinging waterbottle                                                                                                            |
